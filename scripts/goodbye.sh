@@ -1,5 +1,5 @@
 #!/bin/bash
 
-read -p "Enter your name: " NAME
+read -rp "Enter your name: " NAME
 
 echo "Goodbye $NAME!"
